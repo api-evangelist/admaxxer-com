@@ -1,4 +1,4 @@
-# admaxxer-com
+# Admaxxer
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,123 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-admaxxer-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://admaxxer.com/
+Admaxxer AI Analytics is a marketing analytics and ad‑ops platform that offers first‑party pixel, real‑time visitor and revenue analytics, AI‑driven attribution, and server‑side tracking. It delivers analytics up to 86% cheaper than competitors, with plans starting at $9/mo and a free trial, supporting integration with Claude, ChatGPT, Cursor, Codex and other AI agents. The platform provides blended MER, CPA, and source/medium attribution, multi‑account reporting, role‑based access, and a unified dashboard for Meta and Google ads. Designed for DTC brands and SaaS teams, Admaxxer aims to give honest, transparent data without overage charges.
+
+**Areas:** Analytics · Attribution · AI · Server-side-tracking · Ad-ops · DTC
+
+## Admaxxer on APIs.io
+
+Everything profiled for Admaxxer is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/admaxxer-com/](https://apis.io/providers/admaxxer-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Pixel API](https://apis.io/apis/admaxxer-com/pixel-api/) — The Admaxxer Pixel API is a JSON API for your website analytics: list your sites, pull the same reports you see in the dashboard, and send server-side…
+- [Admaxxer API](https://apis.io/apis/admaxxer-com/admaxxer-com-api/) — Admaxxer API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-10-31); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Admaxxer API Rules](https://apis.io/rules/admaxxer-com/admaxxer-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Admaxxer Com Authentication](https://apis.io/security/admaxxer-com/admaxxer-com-authentication/)
+- [Admaxxer Com Domain Security](https://apis.io/security/admaxxer-com/admaxxer-com-domain-security/)
+- [Admaxxer Com Vulnerability Disclosure](https://apis.io/security/admaxxer-com/admaxxer-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Admaxxer Com Scopes](https://apis.io/scopes/admaxxer-com/admaxxer-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Admaxxer Com Plans Pricing](https://apis.io/plans/admaxxer-com/admaxxer-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Admaxxer Com Rate Limits](https://apis.io/rate-limits/admaxxer-com/admaxxer-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://admaxxer.com/)
+- [Documentation](https://admaxxer.com/documentation)
+- [Getting started](https://admaxxer.com/documentation/getting-started)
+- [API reference](https://admaxxer.com/documentation/api/pixel/overview)
+- [Pricing](https://admaxxer.com/pricing)
+- [Sign up](https://admaxxer.com/pricing)
+- [Support](https://admaxxer.com/support)
+- [Changelog](https://admaxxer.com/changelog)
+- [Blog](https://admaxxer.com/blog)
+- [Security](https://admaxxer.com/security)
+- [Terms of service](https://admaxxer.com/terms)
+- [Privacy policy](https://admaxxer.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 61.4** — strong · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 38.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 45.3 |
+| Developer ergonomics | 64.3 |
+| Access clarity | 73.2 |
+
+**Agent readiness 44.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 37.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/admaxxer-com/](https://apis.io/providers/admaxxer-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Admaxxer: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/admaxxer-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
