@@ -66,7 +66,7 @@
 
 Admaxxer AI Analytics is a marketing analytics and ad‑ops platform that offers first‑party pixel, real‑time visitor and revenue analytics, AI‑driven attribution, and server‑side tracking. It delivers analytics up to 86% cheaper than competitors, with plans starting at $9/mo and a free trial, supporting integration with Claude, ChatGPT, Cursor, Codex and other AI agents. The platform provides blended MER, CPA, and source/medium attribution, multi‑account reporting, role‑based access, and a unified dashboard for Meta and Google ads. Designed for DTC brands and SaaS teams, Admaxxer aims to give honest, transparent data without overage charges.
 
-**Areas:** Analytics · Attribution · AI · Server-side-tracking · Ad-ops · DTC
+**Areas:** Analytics · Attribution · Artificial Intelligence · Server-side-tracking · Ad-ops · Direct to Consumer
 
 ## Admaxxer on APIs.io
 
@@ -81,6 +81,12 @@ Everything profiled for Admaxxer is published on APIs.io rather than in this rep
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [admaxxer-com-mcp.yml](https://apis.io/servers/admaxxer-com/admaxxer-com-mcp-yml/)
+
 #### Governance rules (1)
 
 Spectral rulesets for the provider's contracts.
@@ -91,27 +97,27 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Admaxxer Com Authentication](https://apis.io/security/admaxxer-com/admaxxer-com-authentication/)
-- [Admaxxer Com Domain Security](https://apis.io/security/admaxxer-com/admaxxer-com-domain-security/)
-- [Admaxxer Com Vulnerability Disclosure](https://apis.io/security/admaxxer-com/admaxxer-com-vulnerability-disclosure/)
+- [Admaxxer Authentication](https://apis.io/security/admaxxer-com/admaxxer-com-authentication/)
+- [Admaxxer Domain Security](https://apis.io/security/admaxxer-com/admaxxer-com-domain-security/)
+- [Admaxxer Vulnerability Disclosure](https://apis.io/security/admaxxer-com/admaxxer-com-vulnerability-disclosure/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Admaxxer Com Scopes](https://apis.io/scopes/admaxxer-com/admaxxer-com-scopes/)
+- [Admaxxer Scopes](https://apis.io/scopes/admaxxer-com/admaxxer-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Admaxxer Com Plans Pricing](https://apis.io/plans/admaxxer-com/admaxxer-com-plans-pricing/)
+- [Admaxxer Plans Pricing](https://apis.io/plans/admaxxer-com/admaxxer-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Admaxxer Com Rate Limits](https://apis.io/rate-limits/admaxxer-com/admaxxer-com-rate-limits/)
+- [Admaxxer Rate Limits](https://apis.io/rate-limits/admaxxer-com/admaxxer-com-rate-limits/)
 
 ## Where to find this API
 
@@ -132,25 +138,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 61.4** — strong · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 47.9** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
-| Contract quality | 38.0 |
-| Contract governance | 79.1 |
-| Operational transparency | 45.3 |
+| Discoverability | 64.3 |
+| Contract quality | 10.5 |
+| Contract governance | 22.0 |
+| Operational transparency | 42.9 |
 | Developer ergonomics | 64.3 |
-| Access clarity | 73.2 |
+| Access clarity | 72.3 |
 
-**Agent readiness 44.6** — agent-ready (gated down from agent-native)
+**Agent readiness 37.9** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | documented (partial credit) |
 | Error Semantics | — |
@@ -158,7 +164,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -168,6 +174,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 37.3** — Horizontal (data, software, accessibility, platform)
 
